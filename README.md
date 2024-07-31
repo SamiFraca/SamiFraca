@@ -13,6 +13,9 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sami-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sami-fraca-amghar-76b640194/) or fracasami@gmail.com
 
+
+-  Take a look at my portfolio/blog to know more about me! https://samifr.dev
+
 ---
 ### :hammer_and_wrench: Languages and tools that i've worked with :
 <div>
