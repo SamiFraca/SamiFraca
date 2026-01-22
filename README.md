@@ -3,15 +3,15 @@
 
 
 
-### :woman_technologist: About Me :
+###  About Me :
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+-  I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- : Exploring Technical Content Writing.
 
-- :zap: In my free time, I work on my own projects and read tech articles.
+-  In my free time, I work on my own projects and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sami-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sami-fraca-amghar-76b640194/) or fracasami@gmail.com
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sami-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sami-fraca-amghar-76b640194/) or fracasami@gmail.com
 
 
 -  Take a look at my portfolio/blog to know more about me! https://samifr.dev
@@ -32,5 +32,6 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" **alt="Docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" **alt="csharp" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="nestjs" **alt="nestjs" width="40" height="40"/>
 </div>
